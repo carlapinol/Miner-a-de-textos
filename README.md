@@ -2,7 +2,7 @@
 
 La clasificación de textos es un proceso mediante el cual se asigna una categoría específica a un texto determinado entre varias opciones disponibles. Este proceso es fundamental en el análisis de datos textuales y tiene numerosas aplicaciones prácticas.
 
-En esta práctica se va a aplicar a reviews de Tripadvisor, clasificándolas en positivas, neutrales o negativas, es decir, vamos a realizar análisis de sentimientos. Para ello vamos a combinar varios clasificadores, cada uno de ellos hace sus predicciones. Estas se combinan y conforman la entrada del esenmble junto al texto inicial que se les proporciona a cada uno de ellos, obteniendo así la predicción final.
+En esta práctica se va a aplicar a reviews de Tripadvisor, clasificándolas en positivas, neutrales o negativas, es decir, vamos a realizar análisis de sentimientos. Para ello vamos a combinar varios clasificadores, cada uno de ellos hace sus predicciones. Estas se combinan y conforman la entrada del esemble junto al texto inicial que se les proporciona a cada uno de ellos, obteniendo así la predicción final.
 
 Los modelos van a ser los siguientes:
 
